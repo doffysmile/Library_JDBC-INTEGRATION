@@ -33,14 +33,11 @@ Este projeto simula funcionalidades de um sistema de gerenciamento de biblioteca
 * Integração entre Java e Banco de Dados
 
 
-## 👩‍💻 Autora
-
-Julia Victoria
-
-🎓 Ciência da Computação — PUCPR
-
-📚 Atualmente aprofundando conhecimentos em Java, SQL e desenvolvimento de sistemas.
-
 ## 📈 Evolução
 
 Este projeto faz parte da minha jornada de aprendizado em desenvolvimento de software e integração com bancos de dados utilizando Java.
+
+
+## Julia Victória
+
+![PUCPR](https://img.shields.io/badge/PUCPR-Ciência%20da%20Computação-blue?style=for-the-badge)
